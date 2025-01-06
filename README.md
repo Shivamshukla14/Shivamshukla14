@@ -1,14 +1,82 @@
-<h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A Data Scientist Enthusiast from India</h3>
+# Hi there! 👋 I'm a Data Science Enthusiast
 
-- 📫 How to reach me **shivam.shuklaa14@gmail.com**
+Welcome to my GitHub profile! I am passionate about leveraging data to build impactful solutions and exploring cutting-edge technologies in the field of Data Science and Machine Learning.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iam-shivam-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam-shivam-shukla" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Skills and Tools
+
+### Programming Languages & Libraries:
+- **Python**: Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn
+
+### Backend Development:
+- **Flask**
+
+### Data Visualization:
+- **Power BI**
+- **Grafana**
+
+### Databases:
+- **MySQL**
+
+### Version Control:
+- **Git**
+
+---
+
+## 🌟 Highlights
+- 🔍 **Data Manipulation & Analysis**: Expertise in data cleaning, analysis, and visualization.
+- 🤖 **Machine Learning**: Proficient in building and deploying machine learning models using TensorFlow and PyTorch.
+- 🖥️ **Dashboards**: Skilled in creating insightful dashboards with Power BI and Grafana.
+- 🛠️ **Backend Development**: Experience in developing RESTful APIs with Flask.
+
+---
+
+## 📊 GitHub Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamshukla14&show_icons=true&locale=en&layout=compact" alt="shivamshukla14" /></p>
+
+---
+
+## 📂 Featured Projects
+
+### 📘 [Grin Or Gripe](https://github.com/Shivamshukla14/Grin-Or-Gripe)
+**Description**: Grin Or Gripe is a project that combines web development with cutting-edge machine learning to analyze the sentiment lurking behind text data. It empowers users to:
+- **Unmask hidden sentiment**: Analyze tweets, reviews, and online interactions to understand the true feeling behind the words. Say goodbye to deciphering sarcasm or hidden negativity!
+- **Make informed decisions**: Gain valuable insights from customer feedback, gauge the effectiveness of marketing campaigns, and build stronger relationships with your audience.
+- **Stay positive and inspired**: Feeling down? Posify delivers a daily dose of good vibes straight to your inbox, curated from positive news articles.
+
+**Technologies Used**: Python, LLM, GenAI, Flask, TensorFlow, NewsAPI, NLP
+
+### 📘 [MLOC Assistant: A Multimodal Conversational App](https://github.com/Shivamshukla14/Multimodal-Local-Chat-Assistant)
+**Description**: The MLOC Assistant empowers you to interact with a large language model (LLM) in a truly multimodal way. Engage in natural language conversations, glean insights from images, and unlock the knowledge hidden within PDFs – all through a user-friendly chat interface!
+
+- **Speak Your Mind, Explore Images, Unravel PDFs**: 
+  - **Text-Based Conversation**: Craft your questions or prompts with ease using the text input field. Alternatively, speak your mind with convenient microphone recording. The LLM will seamlessly understand your intent.
+  - **Image Description**: Upload images, and the MLOC Assistant will provide detailed descriptions, taking into account any prompts you provide.
+  - **PDF Processing**: Tired of sifting through PDFs? Upload them, and the Assistant will generate summaries or answer specific questions you have about the content.
+
+**️Under the Hood**: A Symphony of Technologies
+
+The MLOC Assistant blends cutting-edge libraries and techniques to deliver a seamless user experience:
+
+- **Streamlit**: This powerful framework lays the foundation for the interactive web app interface.
+- **LLMs (Large Language Models)**: At the heart lies the LLM, providing the cornerstone for natural language conversations.
+- **Speech Recognition**: Effortlessly convert spoken words to text for hands-free interaction.
+- **Computer Vision**: Extract meaningful information from uploaded images, enabling insightful descriptions.
+- **Text Processing & Embeddings**: Leverage Google Generative AI for efficient text processing and information retrieval to answer your PDF-related queries.
+
+**Technologies Used**: Python, Streamlit, LLM, TensorFlow, PyTorch, GenAI
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/iam-shivam-shukla)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me to collaborate on exciting projects. Let's turn data into actionable insights!
+
+
+
