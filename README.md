@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I am passionate about leveraging data to build imp
 
 ### Backend Development:
 - **Flask**
+- **Django**
 
 ### Data Visualization:
 - **Power BI**
